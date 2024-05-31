@@ -6,3 +6,4 @@ changing in branch practice
 =======
 changes before stashing
 
+lets make some changes
